@@ -1,0 +1,1 @@
+# QubesOS-WM_CLASS-fix
